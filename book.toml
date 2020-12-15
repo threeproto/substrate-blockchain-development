@@ -1,0 +1,6 @@
+[book]
+authors = ["Kaichao Sun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "You Don't Know Substrate"
