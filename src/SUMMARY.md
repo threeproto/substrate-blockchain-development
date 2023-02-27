@@ -36,3 +36,5 @@
 - [Introduction of polkadot-js/api](./ch06-00-polkadotjs-api-intro.md)
 	- [Installation](./ch06-01-installation.md)
 	- [Common usage](./ch06-02-usage.md)
+
+- [Substrate Onestop](./ch07-00-onestop.md)

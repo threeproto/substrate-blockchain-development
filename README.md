@@ -11,3 +11,20 @@
 - 介绍Substrate内置的模块
 - 生态工具的使用
   - 区块浏览器
+
+
+## How to
+
+Install mdbook
+
+```shell
+cargo install mdbook
+```
+
+Start local server,
+
+```shell
+mdbook serve
+```
+
+Now go to `http://localhost:3000/` for book contents.
